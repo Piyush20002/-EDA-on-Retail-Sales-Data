@@ -1,4 +1,4 @@
-# EDA-on-Retail-Sales-Data
+Data Analysis project -1
 EDA on Retail Sales Data
 
 Description:
