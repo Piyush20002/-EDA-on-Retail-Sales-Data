@@ -36,4 +36,3 @@ Peak sales activity occurred during May-June 2023, indicating strong seasonal pa
 5. Price and Quantity Metrics
 The average purchase value is $456.00, with prices ranging from $25 to $500 per unit. Most transactions involve 1-4 items, with a mean quantity of 2.5 items per transaction. This information is valuable for pricing strategies and inventory management decisions.
 
-These insights suggest opportunities for targeted marketing, seasonal promotions, and product category optimization to maximize sales performance.
