@@ -34,5 +34,5 @@ Clothing leads in quantity sold (894 units), followed by Electronics (849) and B
 Peak sales activity occurred during May-June 2023, indicating strong seasonal patterns. This timing could be linked to holiday shopping, seasonal promotions, or other cyclical factors. Understanding these patterns is crucial for inventory management and promotional planning.
 
 5. Price and Quantity Metrics
-The average purchase value is $456.00, with prices ranging from $25 to $500 per unit. Most transactions involve 1-4 items, with a mean quantity of 2.5 items per transaction. This information is valuable for pricing strategies and inventory management decisions.
+The average purchase value is 456.00, with prices ranging from 25 to 500 per unit. Most transactions involve 1-4 items, with a mean quantity of 2.5 items per transaction. This information is valuable for pricing strategies and inventory management decisions.
 
